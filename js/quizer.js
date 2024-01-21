@@ -1170,6 +1170,11 @@ let en_1980_gr = [
 		pack : EN_1980_GR_PACK_5,
 		group : "Laid back",
 		song : "High Society Girl"
+	},
+	{
+		pack : EN_1980_GR_PACK_5,
+		group : "Johnny Hates Jazz",
+		song : "Shattered Dreams"
 	}
 ];
 
