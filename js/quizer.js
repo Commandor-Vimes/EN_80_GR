@@ -399,7 +399,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : "Duran Duran",
-		song : "Rio"
+		song : "Rio",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
@@ -1175,6 +1176,11 @@ let en_1980_gr = [
 		pack : EN_1980_GR_PACK_5,
 		group : "Johnny Hates Jazz",
 		song : "Shattered Dreams"
+	},
+	{
+		pack : EN_1980_GR_PACK_1,
+		group : "Duran Duran",
+		song : "Wild boys"
 	}
 ];
 
