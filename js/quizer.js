@@ -1182,6 +1182,18 @@ let en_1980_gr = [
 		pack : EN_1980_GR_PACK_1,
 		group : "Duran Duran",
 		song : "Wild boys"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : 'Yello',
+		song : "Vicious games",
+		year : 1985
+	},
+	{
+		pack : EN_1980_GR_PACK_5,
+		group : "Shorts",
+		song : "Comment ça va",
+		year : 1983
 	}
 ];
 
