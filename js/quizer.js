@@ -398,18 +398,18 @@ let en_1980_gr = [
 		song : "Rock the Casbah"
 	},
 	{
-		pack : EN_1980_GR_PACK_1,
+		pack : EN_1980_GR_PACK_4,
 		group : "Duran Duran",
 		song : "Rio",
 		ignore : true
 	},
 	{
-		pack : EN_1980_GR_PACK_1,
+		pack : EN_1980_GR_PACK_4,
 		group : "Duran Duran",
 		song : "A View to a Kill"
 	},
 	{
-		pack : EN_1980_GR_PACK_1,
+		pack : EN_1980_GR_PACK_4,
 		group : "Duran Duran",
 		song : "The Reflex"
 	},
@@ -1179,7 +1179,7 @@ let en_1980_gr = [
 		song : "Shattered Dreams"
 	},
 	{
-		pack : EN_1980_GR_PACK_1,
+		pack : EN_1980_GR_PACK_4,
 		group : "Duran Duran",
 		song : "Wild boys"
 	},
@@ -1194,6 +1194,36 @@ let en_1980_gr = [
 		group : "Shorts",
 		song : "Comment ça va",
 		year : 1983
+	},
+	{
+		pack : EN_1980_GR_PACK_5,
+		group : "Shorts",
+		song : "Comment ça va",
+		year : 1983
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : 'KC & The Sunshine Band',
+		song : "Give It Up",
+		year : 1982
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : 'KC & The Sunshine Band',
+		song : "That's the Way (I Like It)",
+		year : 1975
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : "Motley Crue",
+		song : "Dr. Feelgood",
+		year : 1989
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : "Motley Crue",
+		song : "Kickstart My Heart",
+		year : 1989
 	}
 ];
 
