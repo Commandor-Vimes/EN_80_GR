@@ -1196,12 +1196,6 @@ let en_1980_gr = [
 		year : 1983
 	},
 	{
-		pack : EN_1980_GR_PACK_5,
-		group : "Shorts",
-		song : "Comment ça va",
-		year : 1983
-	},
-	{
 		pack : EN_1980_GR_PACK_3,
 		group : 'KC & The Sunshine Band',
 		song : "Give It Up",
@@ -1216,13 +1210,13 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : "Motley Crue",
-		song : "Dr. Feelgood",
+		song : "Kickstart My Heart",
 		year : 1989
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : "Motley Crue",
-		song : "Kickstart My Heart",
+		song : "Dr. Feelgood",
 		year : 1989
 	}
 ];
