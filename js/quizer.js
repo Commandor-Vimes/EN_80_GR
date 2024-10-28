@@ -1218,6 +1218,30 @@ let en_1980_gr = [
 		group : "Motley Crue",
 		song : "Dr. Feelgood",
 		year : 1989
+	},
+	{
+		pack : EN_1980_GR_PACK_4,
+		group : "ABC",
+		song : "When Smokey Sings",
+		year : 1987
+	},
+	{
+		pack : EN_1980_GR_PACK_1,
+		group : "Air Supply",
+		song : "Making Love Out of Nothing At All",
+		year : 1983
+	},
+	{
+		pack : EN_1980_GR_PACK_1,
+		group : "Air Supply",
+		song : "All Out of Love",
+		year : 1980
+	},
+	{
+		pack : EN_1980_GR_PACK_1,
+		group : "Fleetwood Mac",
+		song : "Everywhere",
+		year : 1987
 	}
 ];
 
