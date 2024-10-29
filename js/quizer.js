@@ -370,12 +370,14 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : 'Survivor',
-		song : "Burning Heart"
+		song : "Burning Heart",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : 'Survivor',
-		song : "Eye Of The Tiger"
+		song : "Eye Of The Tiger",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
@@ -385,7 +387,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : 'Kiss',
-		song : "Heaven's On Fire"
+		song : "Heaven's On Fire",
+		year : 1984
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
@@ -441,7 +444,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : "Roxette",
-		song : "Listen To Your Heart"
+		song : "Listen To Your Heart",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
@@ -516,12 +520,16 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : 'Kiss',
-		song : "I Was Made for Loving You"
+		song : "I Was Made for Loving You",
+		year : 1979,
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : 'Kiss',
-		song : "Rock And Roll All Nite"
+		song : "Rock And Roll All Nite",
+		year : 1975,
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
@@ -541,7 +549,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : 'Def Leppard',
-		song : "Pour Some Sugar on Me"
+		song : "Pour Some Sugar on Me",
+		year : 1988
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
@@ -1242,6 +1251,84 @@ let en_1980_gr = [
 		group : "Fleetwood Mac",
 		song : "Everywhere",
 		year : 1987
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : "Talking Heads",
+		song : "Burning Down the House",
+		year : 1983
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : "Talking Heads",
+		song : "Once In a Lifetime",
+		year : 1980
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : "Rainbow",
+		song : "I Surrender",
+		year : 1981
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : "Quiet Riot",
+		song : "The Wild and the Young",
+		year : 1986
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : "Poison",
+		song : "Talk Dirty to Me",
+		year : 1986
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : "REO Speedwagon",
+		song : "Keep On Loving You",
+		year : 1980
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : "Nazareth",
+		song : "Dream On",
+		year : 1982
+	},
+	{
+		pack : EN_1980_GR_PACK_1,
+		group : 'Kiss',
+		song : "War Machine",
+		year : 1982
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : 'Def Leppard',
+		song : "Run Riot",
+		year : 1987
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : 'Def Leppard',
+		song : "Hysteria",
+		year : 1987
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : 'Cinderella',
+		song : "Gypsy Road",
+		year : 1988
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : 'Cars',
+		song : "Drive",
+		year : 1984
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : 'Boston',
+		song : "Amanda",
+		year : 1986
 	}
 ];
 
