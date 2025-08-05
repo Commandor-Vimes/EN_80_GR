@@ -1319,13 +1319,13 @@ let en_1980_gr = [
 		year : 1988
 	},
 	{
-		pack : EN_1980_GR_PACK_2,
+		pack : EN_1980_GR_PACK_3,
 		group : 'Cars',
 		song : "Drive",
 		year : 1984
 	},
 	{
-		pack : EN_1980_GR_PACK_2,
+		pack : EN_1980_GR_PACK_4,
 		group : 'Boston',
 		song : "Amanda",
 		year : 1986
