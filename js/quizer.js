@@ -544,7 +544,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : 'Scorpions',
-		song : "Rock You Like a Hurricane"
+		song : "Rock You Like a Hurricane",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
@@ -580,12 +581,14 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : 'ACDC',
-		song : "Hells Bells"
+		song : "Hells Bells",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : 'ACDC',
-		song : "You Shook Me All Night Long"
+		song : "You Shook Me All Night Long",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
@@ -660,7 +663,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : 'ACDC',
-		song : "Back In Black"
+		song : "Back In Black",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
@@ -725,12 +729,14 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_4,
 		group : 'Toto',
-		song : "Africa"
+		song : "Africa",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_4,
 		group : 'Van Halen',
-		song : "Jump"
+		song : "Jump",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_4,
@@ -790,7 +796,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_3,
 		group : 'Beach Boys',
-		song : "Wipeout (ft Fat Boys)"
+		song : "Wipeout (ft Fat Boys)",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_4,
@@ -843,12 +850,12 @@ let en_1980_gr = [
 		song : "Let's Groove"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_4,
 		group : "Europe",
 		song : "The Final Countdown"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_4,
 		group : "Europe",
 		song : "Carrie"
 	},
@@ -940,7 +947,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_5,
 		group : 'A-Ha',
-		song : "Take On Me"
+		song : "Take On Me",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_5,
@@ -1005,17 +1013,20 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_5,
 		group : "Baccara",
-		song : "Yes Sir, I Can Boogie"
+		song : "Yes Sir, I Can Boogie",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_5,
 		group : "Baccara",
-		song : "Sorry, I'm a Lady"
+		song : "Sorry, I'm a Lady",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_5,
 		group : "Blue System",
-		song : "My Bed Is Too Big"
+		song : "My Bed Is Too Big",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_5,
@@ -1143,7 +1154,7 @@ let en_1980_gr = [
 		song : "Expression"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_4,
 		group : 'Europe',
 		song : "Rock the Night"
 	},
@@ -1229,7 +1240,7 @@ let en_1980_gr = [
 		year : 1989
 	},
 	{
-		pack : EN_1980_GR_PACK_4,
+		pack : EN_1980_GR_PACK_3,
 		group : "ABC",
 		song : "When Smokey Sings",
 		year : 1987
@@ -1325,10 +1336,40 @@ let en_1980_gr = [
 		year : 1984
 	},
 	{
-		pack : EN_1980_GR_PACK_4,
+		pack : EN_1980_GR_PACK_3,
 		group : 'Boston',
 		song : "Amanda",
 		year : 1986
+	},
+	{
+		pack : EN_1980_GR_PACK_1,
+		group : "Heart",
+		song : "Alone (1987)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : 'Beach Boys',
+		song : "Kokomo (1988)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : 'Madness',
+		song : "Our House (1982)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : 'Madness',
+		song : "House of Fun (1982)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : 'Journey',
+		song : "Don't Stop Believin'(1981)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : 'Journey',
+		song : "Open Arms (1982)"
 	}
 ];
 
