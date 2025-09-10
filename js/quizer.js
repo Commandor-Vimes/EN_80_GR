@@ -1116,7 +1116,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_5,
 		group : "Laid back",
-		song : "Elevator Boy"
+		song : "Elevator Boy",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_5,
@@ -1375,6 +1376,11 @@ let en_1980_gr = [
 		pack : EN_1980_GR_PACK_3,
 		group : 'Madness',
 		song : "Baggy Trousers (1980)"
+	},
+	{
+		pack : EN_1980_GR_PACK_5,
+		group : "Laid back",
+		song : "White Horse (1983)"
 	}
 ];
 
