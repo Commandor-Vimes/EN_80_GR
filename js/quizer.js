@@ -1370,6 +1370,11 @@ let en_1980_gr = [
 		pack : EN_1980_GR_PACK_3,
 		group : 'Journey',
 		song : "Open Arms (1982)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : 'Madness',
+		song : "Baggy Trousers (1980)"
 	}
 ];
 
