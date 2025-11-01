@@ -1370,6 +1370,16 @@ let en_1980_gr = [
 		pack : EN_1980_GR_PACK_1,
 		group : 'Dire Straits',
 		song : "Walk of Life (1985)"
+	},
+	{
+		pack : EN_1980_GR_PACK_5,
+		group : "New Kids On the Block",
+		song : "You Got It (The Right Stuff) (1988)"
+	},
+	{
+		pack : EN_1980_GR_PACK_5,
+		group : "New Kids On the Block",
+		song : "Hangin' Touch (1989)"
 	}
 ];
 
