@@ -465,17 +465,19 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : 'Dire Straits',
-		song : "Solid Rock"
+		song : "Solid Rock",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : 'Dire Straits',
-		song : "Brothers In Arms"
+		song : "Brothers In Arms",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : 'Dire Straits',
-		song : "Money For Nothing"
+		song : "Money For Nothing (1985)"
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
@@ -1207,140 +1209,117 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_3,
 		group : 'Yello',
-		song : "Vicious games",
-		year : 1985
+		song : "Vicious games (1985)"
 	},
 	{
 		pack : EN_1980_GR_PACK_5,
 		group : "Shorts",
-		song : "Comment ça va",
-		year : 1983
+		song : "Comment ça va (1983)"
 	},
 	{
 		pack : EN_1980_GR_PACK_3,
 		group : 'KC & The Sunshine Band',
-		song : "Give It Up",
-		year : 1982
+		song : "Give It Up (1982)"
 	},
 	{
 		pack : EN_1980_GR_PACK_3,
 		group : 'KC & The Sunshine Band',
-		song : "That's the Way (I Like It)",
-		year : 1975
+		song : "That's the Way (I Like It) (1975)"
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : "Motley Crue",
-		song : "Kickstart My Heart",
-		year : 1989
+		song : "Kickstart My Heart (1989)"
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : "Motley Crue",
-		song : "Dr. Feelgood",
-		year : 1989
+		song : "Dr. Feelgood (1989)"
 	},
 	{
 		pack : EN_1980_GR_PACK_3,
 		group : "ABC",
-		song : "When Smokey Sings",
-		year : 1987
+		song : "When Smokey Sings (1987)"
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : "Air Supply",
-		song : "Making Love Out of Nothing At All",
-		year : 1983
+		song : "Making Love Out of Nothing At All (1983)"
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : "Air Supply",
-		song : "All Out of Love",
-		year : 1980
+		song : "All Out of Love (1980)"
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : "Fleetwood Mac",
-		song : "Everywhere",
-		year : 1987
+		song : "Everywhere (1987)"
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : "Talking Heads",
-		song : "Burning Down the House",
-		year : 1983
+		song : "Burning Down the House (1983)"
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : "Talking Heads",
-		song : "Once In a Lifetime",
-		year : 1980
+		song : "Once In a Lifetime (1980)"
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : "Rainbow",
-		song : "I Surrender",
-		year : 1981
+		song : "I Surrender (1981)"
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : "Quiet Riot",
-		song : "The Wild and the Young",
-		year : 1986
+		song : "The Wild and the Young (1986)"
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : "Poison",
-		song : "Talk Dirty to Me",
-		year : 1986
+		song : "Talk Dirty to Me (1986)"
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : "REO Speedwagon",
-		song : "Keep On Loving You",
-		year : 1980
+		song : "Keep On Loving You (1980)"
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : "Nazareth",
-		song : "Dream On",
-		year : 1982
+		song : "Dream On (1982)"
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : 'Kiss',
-		song : "War Machine",
-		year : 1982
+		song : "War Machine (1982)"
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : 'Def Leppard',
-		song : "Run Riot",
-		year : 1987
+		song : "Run Riot (1987)"
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : 'Def Leppard',
-		song : "Hysteria",
-		year : 1987
+		song : "Hysteria (1987)"
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : 'Cinderella',
-		song : "Gypsy Road",
-		year : 1988
+		song : "Gypsy Road (1988)"
 	},
 	{
 		pack : EN_1980_GR_PACK_3,
 		group : 'Cars',
-		song : "Drive",
-		year : 1984
+		song : "Drive (1984)"
 	},
 	{
 		pack : EN_1980_GR_PACK_3,
 		group : 'Boston',
-		song : "Amanda",
-		year : 1986
+		song : "Amanda (1986)"
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
@@ -1381,6 +1360,16 @@ let en_1980_gr = [
 		pack : EN_1980_GR_PACK_5,
 		group : "Laid back",
 		song : "White Horse (1983)"
+	},
+	{
+		pack : EN_1980_GR_PACK_1,
+		group : 'Dire Straits',
+		song : "Romeo and Juliet (1981)"
+	},
+	{
+		pack : EN_1980_GR_PACK_1,
+		group : 'Dire Straits',
+		song : "Walk of Life (1985)"
 	}
 ];
 
