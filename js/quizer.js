@@ -595,7 +595,7 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : 'Judas Priest',
-		song : "Breaking the Law"
+		song : "Breaking the Law (1980)"
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
@@ -605,7 +605,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : "Pink Floyd",
-		song : "Another Brick In The Wall, Pt. 2"
+		song : "Another Brick In The Wall, Pt. 2",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
@@ -640,7 +641,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : 'Rolling Stones',
-		song : "Start Me Up"
+		song : "Start Me Up",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
@@ -701,7 +703,7 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : "Dio",
-		song : "Rainbow In The Dark"
+		song : "Rainbow In The Dark (1983)"
 	},
 	{
 		pack : EN_1980_GR_PACK_3,
@@ -944,7 +946,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_5,
 		group : 'Cutting Crew',
-		song : "I Just Died in Your Arms Tonight"
+		song : "I Just Died in Your Arms Tonight",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_5,
@@ -985,7 +988,7 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_5,
 		group : 'Ultravox',
-		song : "Dancing With Tears In My Eyes"
+		song : "Dancing With Tears In My Eyes (1984)"
 	},
 	{
 		pack : EN_1980_GR_PACK_5,
@@ -1005,12 +1008,14 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_5,
 		group : "Digital Emotion",
-		song : "Get Up Action"
+		song : "Get Up Action",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_5,
 		group : "Digital Emotion",
-		song : "Go Go Yellow Screen"
+		song : "Go Go Yellow Screen",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_5,
@@ -1174,17 +1179,20 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_5,
 		group : 'Videokids',
-		song : "Woodpeckers From Space"
+		song : "Woodpeckers From Space",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_5,
 		group : 'Videokids',
-		song : "Do The Rap"
+		song : "Do The Rap",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_5,
 		group : 'Videokids',
-		song : "Communication Outer Space"
+		song : "Communication Outer Space",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_3,
@@ -1380,6 +1388,56 @@ let en_1980_gr = [
 		pack : EN_1980_GR_PACK_5,
 		group : "New Kids On the Block",
 		song : "Hangin' Touch (1989)"
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : 'Van Halen',
+		song : "Inside (1986)"
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : 'Van Halen',
+		song : "Panama (1984)"
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : 'Van Halen',
+		song : "Top Jimmy (1984)"
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : "Pink Floyd",
+		song : "Learning to Fly (1987)"
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : "Pink Floyd",
+		song : "The Final Cut (1983)"
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : "Dio",
+		song : "Evil Eyes (1983)"
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : "Dio",
+		song : "The Last In Line (1984)"
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : 'Judas Priest',
+		song : "Electric Eye (1982)"
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : 'Judas Priest',
+		song : "Turbo Lover (1986)"
+	},
+	{
+		pack : EN_1980_GR_PACK_5,
+		group : 'Ultravox',
+		song : "Hymn (1982)"
 	}
 ];
 
