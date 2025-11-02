@@ -621,17 +621,20 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : "Aerosmith",
-		song : "Lightning Strikes"
+		song : "Lightning Strikes",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : "Aerosmith",
-		song : "Let The Music Do The Talking"
+		song : "Let The Music Do The Talking",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : "Aerosmith",
-		song : "Janie's Got A Gun"
+		song : "Janie's Got A Gun",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
@@ -1260,17 +1263,17 @@ let en_1980_gr = [
 		song : "All Out of Love (1980)"
 	},
 	{
-		pack : EN_1980_GR_PACK_1,
+		pack : EN_1980_GR_PACK_3,
 		group : "Fleetwood Mac",
 		song : "Everywhere (1987)"
 	},
 	{
-		pack : EN_1980_GR_PACK_2,
+		pack : EN_1980_GR_PACK_3,
 		group : "Talking Heads",
 		song : "Burning Down the House (1983)"
 	},
 	{
-		pack : EN_1980_GR_PACK_2,
+		pack : EN_1980_GR_PACK_3,
 		group : "Talking Heads",
 		song : "Once In a Lifetime (1980)"
 	},
@@ -1392,7 +1395,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : 'Van Halen',
-		song : "Inside (1986)"
+		song : "Inside (1986)",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
@@ -1402,7 +1406,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : 'Van Halen',
-		song : "Top Jimmy (1984)"
+		song : "Top Jimmy (1984)",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
