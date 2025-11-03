@@ -1443,6 +1443,11 @@ let en_1980_gr = [
 		pack : EN_1980_GR_PACK_5,
 		group : 'Ultravox',
 		song : "Hymn (1982)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : "Fleetwood Mac",
+		song : "Little Lies (1987)"
 	}
 ];
 
