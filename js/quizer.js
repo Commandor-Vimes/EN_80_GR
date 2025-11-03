@@ -455,7 +455,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : "INXS",
-		song : "Devil Inside"
+		song : "Devil Inside",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
@@ -507,12 +508,12 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : "INXS",
-		song : "Never Tear Us Apart"
+		song : "Never Tear Us Apart (1988)"
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : "INXS",
-		song : "Need You Tonight"
+		song : "Need You Tonight (1987)"
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
@@ -1448,6 +1449,11 @@ let en_1980_gr = [
 		pack : EN_1980_GR_PACK_3,
 		group : "Fleetwood Mac",
 		song : "Little Lies (1987)"
+	},
+	{
+		pack : EN_1980_GR_PACK_1,
+		group : "INXS",
+		song : "New Sensation (1987)"
 	}
 ];
 
