@@ -1153,17 +1153,17 @@ let en_1980_gr = [
 		song : "Eternal Flame"
 	},
 	{
-		pack : EN_1980_GR_PACK_4,
+		pack : EN_1980_GR_PACK_6,
 		group : 'Salt-N-Pepa',
 		song : "Push It (1987)"
 	},
 	{
-		pack : EN_1980_GR_PACK_4,
+		pack : EN_1980_GR_PACK_6,
 		group : 'Salt-N-Pepa',
 		song : "Shake Your Thang (ft E.U.) (1988)"
 	},
 	{
-		pack : EN_1980_GR_PACK_4,
+		pack : EN_1980_GR_PACK_6,
 		group : 'Salt-N-Pepa',
 		song : "Expression (1989)"
 	},
