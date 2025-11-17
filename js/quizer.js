@@ -855,9 +855,9 @@ let en_1980_gr = [
 		song : "Your Love"
 	},
 	{
-		pack : EN_1980_GR_PACK_4,
+		pack : EN_1980_GR_PACK_3,
 		group : "Earth Wind & Fire",
-		song : "Let's Groove"
+		song : "Let's Groove (1981)"
 	},
 	{
 		pack : EN_1980_GR_PACK_4,
@@ -1238,7 +1238,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_3,
 		group : 'KC & The Sunshine Band',
-		song : "That's the Way (I Like It) (1975)"
+		song : "That's the Way (I Like It) (1975)",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
@@ -1506,6 +1507,31 @@ let en_1980_gr = [
 		pack : EN_1980_GR_PACK_6,
 		group : 'Beastie Boys',
 		song : "Girls (1986)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : "Kool & The Gang",
+		song : "Celebration (1980)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : "Kool & The Gang",
+		song : "Fresh (1984)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : "Simply Red",
+		song : "It's Only Love (1989)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : "Starship",
+		song : "Nothing's Gonna Stop Us Now (1987)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : "Starship",
+		song : "We Built This City (1985)"
 	}
 ];
 
