@@ -347,7 +347,8 @@ const en_1980_gr_icon = [
 	'rock',
 	'pop_medium',
 	'pop_hard',
-	'disco'
+	'disco',
+	'rap'
 ];
 
 const EN_1980_GR_PACK_1 = 1;
@@ -355,6 +356,7 @@ const EN_1980_GR_PACK_2 = 2;
 const EN_1980_GR_PACK_3 = 4;
 const EN_1980_GR_PACK_4 = 3;
 const EN_1980_GR_PACK_5 = 5;
+const EN_1980_GR_PACK_6 = 6;
 
 let en_1980_gr = [
 	{
@@ -928,14 +930,14 @@ let en_1980_gr = [
 		song : "Wonderful Life"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_6,
 		group : 'Run-DMC',
-		song : "It's Like That"
+		song : "It's Like That (1983)"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_6,
 		group : 'NWA',
-		song : "Gangsta Gangsta"
+		song : "Gangsta Gangsta (1988)"
 	},
 	{
 		pack : EN_1980_GR_PACK_3,
@@ -1151,19 +1153,19 @@ let en_1980_gr = [
 		song : "Eternal Flame"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_4,
 		group : 'Salt-N-Pepa',
-		song : "Push It"
+		song : "Push It (1987)"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_4,
 		group : 'Salt-N-Pepa',
-		song : "Shake Your Thang (ft E.U.)"
+		song : "Shake Your Thang (ft E.U.) (1988)"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_4,
 		group : 'Salt-N-Pepa',
-		song : "Expression"
+		song : "Expression (1989)"
 	},
 	{
 		pack : EN_1980_GR_PACK_4,
@@ -1454,6 +1456,56 @@ let en_1980_gr = [
 		pack : EN_1980_GR_PACK_1,
 		group : "INXS",
 		song : "New Sensation (1987)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : "B-52's",
+		song : "Love Shack (1989)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : "B-52's",
+		song : "Roam (1989)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : 'Bandolero',
+		song : "Paris Latino (1983)"
+	},
+	{
+		pack : EN_1980_GR_PACK_6,
+		group : 'NWA',
+		song : "Quiet On Tha Set (1988)"
+	},
+	{
+		pack : EN_1980_GR_PACK_6,
+		group : 'NWA',
+		song : "Express Yourself (1989)"
+	},
+	{
+		pack : EN_1980_GR_PACK_6,
+		group : 'Run-DMC',
+		song : "It's Tricky (1984)"
+	},
+	{
+		pack : EN_1980_GR_PACK_6,
+		group : 'Run-DMC',
+		song : "Wake Up (1984)"
+	},
+	{
+		pack : EN_1980_GR_PACK_6,
+		group : 'Beastie Boys',
+		song : "Egg Man (1989)"
+	},
+	{
+		pack : EN_1980_GR_PACK_6,
+		group : 'Beastie Boys',
+		song : "Fight for Your Right (1986)"
+	},
+	{
+		pack : EN_1980_GR_PACK_6,
+		group : 'Beastie Boys',
+		song : "Girls (1986)"
 	}
 ];
 
@@ -1462,6 +1514,7 @@ let en_1980_gr_2 =	en_1980_gr.filter(item => item.pack == 2);
 let en_1980_gr_3 =	en_1980_gr.filter(item => item.pack == 3);
 let en_1980_gr_4 =	en_1980_gr.filter(item => item.pack == 4);
 let en_1980_gr_5 =	en_1980_gr.filter(item => item.pack == 5);
+let en_1980_gr_6 =	en_1980_gr.filter(item => item.pack == 6);
 
 
 let music = [
@@ -1473,23 +1526,27 @@ let music = [
 		packs: [
 				{
 					arr: en_1980_gr_1,
-					name: 'EN 1980s Groups: Pop-Rock',
+					name: 'EN 1980s Groups: Pop-Rock'
 				},
 				{
 					arr: en_1980_gr_2,
-					name: 'EN 1980s Groups: Rock',
+					name: 'EN 1980s Groups: Rock'
 				},
 				{
 					arr: en_1980_gr_3,
-					name: 'EN 1980s Groups: Pop Medium',
+					name: 'EN 1980s Groups: Pop Medium'
 				},
 				{
 					arr: en_1980_gr_4,
-					name: 'EN 1980s Groups: Pop Hard',
+					name: 'EN 1980s Groups: Pop Hard'
 				},
 				{
 					arr: en_1980_gr_5,
-					name: 'EN 1980s Groups: Disco',
+					name: 'EN 1980s Groups: Disco'
+				},
+				{
+					arr: en_1980_gr_6,
+					name: 'EN 1980s Groups: Rap'
 				}
 			]
 	}
