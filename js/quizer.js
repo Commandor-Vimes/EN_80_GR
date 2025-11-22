@@ -727,13 +727,13 @@ let en_1980_gr = [
 		song : "Message In A Bottle"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_5,
 		group : 'New Order',
 		song : "Blue Monday (1983)",
 		ignore : true
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_5,
 		group : 'New Order',
 		song : "Age Of Consent (1983)"
 	},
@@ -1585,12 +1585,12 @@ let en_1980_gr = [
 		song : "Girl You Know It's True (1989)"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_5,
 		group : 'New Order',
 		song : "Bizarre Love Triangle (1986)"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_5,
 		group : 'New Order',
 		song : "Vanishing Point (1989)"
 	},
@@ -1620,17 +1620,17 @@ let en_1980_gr = [
 		song : "Your Love Is King (1984)"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_5,
 		group : 'Secret Service',
 		song : "Crossing A River (1980)"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_5,
 		group : 'Secret Service',
 		song : "Turn To Me (1987)"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_5,
 		group : 'Secret Service',
 		song : "When The Night Closes In (1985)"
 	}
