@@ -729,12 +729,13 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_3,
 		group : 'New Order',
-		song : "Blue Monday"
+		song : "Blue Monday (1983)",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_3,
 		group : 'New Order',
-		song : "Age Of Consent"
+		song : "Age Of Consent (1983)"
 	},
 	{
 		pack : EN_1980_GR_PACK_4,
@@ -974,12 +975,12 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_5,
 		group : 'Foreigner',
-		song : "I Want To Know What Love Is"
+		song : "I Want To Know What Love Is (1984)"
 	},
 	{
 		pack : EN_1980_GR_PACK_5,
 		group : 'Foreigner',
-		song : "Urgent"
+		song : "Urgent (1981)"
 	},
 	{
 		pack : EN_1980_GR_PACK_5,
@@ -1532,6 +1533,106 @@ let en_1980_gr = [
 		pack : EN_1980_GR_PACK_3,
 		group : "Starship",
 		song : "We Built This City (1985)"
+	},
+	{
+		pack : EN_1980_GR_PACK_5,
+		group : "Men Without Hats",
+		song : "The Safety Dance (1982)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : 'Animotion',
+		song : "Obsession (1984)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : 'Dexys Midnight Runners',
+		song : "Come On Eileen (1982)"
+	},
+	{
+		pack : EN_1980_GR_PACK_5,
+		group : "Eruption",
+		song : "Runaway (1981)"
+	},
+	{
+		pack : EN_1980_GR_PACK_5,
+		group : 'Foreigner',
+		song : "Waiting for a Girl Like You (1981)"
+	},
+	{
+		pack : EN_1980_GR_PACK_5,
+		group : "Frankie Goes to Hollywood",
+		song : "The Power Of Love (1984)"
+	},
+	{
+		pack : EN_1980_GR_PACK_5,
+		group : "Frankie Goes to Hollywood",
+		song : "Two Tribes (1984)"
+	},
+	{
+		pack : EN_1980_GR_PACK_5,
+		group : "Hot Chocolate",
+		song : "No Doubt About It (1980)"
+	},
+	{
+		pack : EN_1980_GR_PACK_1,
+		group : "Katrina and the Waves",
+		song : "Walking On Sunshine (1983)"
+	},
+	{
+		pack : EN_1980_GR_PACK_6,
+		group : 'Milli Vanilli',
+		song : "Girl You Know It's True (1989)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : 'New Order',
+		song : "Bizarre Love Triangle (1986)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : 'New Order',
+		song : "Vanishing Point (1989)"
+	},
+	{
+		pack : EN_1980_GR_PACK_5,
+		group : "Opus",
+		song : "Faster And Faster (1987)"
+	},
+	{
+		pack : EN_1980_GR_PACK_1,
+		group : "Pussycat",
+		song : "Rio (1981)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : 'Sade',
+		song : "Smooth Operator (1984)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : 'Sade',
+		song : "The Sweetest Taboo (1985)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : 'Sade',
+		song : "Your Love Is King (1984)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : 'Secret Service',
+		song : "Crossing A River (1980)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : 'Secret Service',
+		song : "Turn To Me (1987)"
+	},
+	{
+		pack : EN_1980_GR_PACK_3,
+		group : 'Secret Service',
+		song : "When The Night Closes In (1985)"
 	}
 ];
 
