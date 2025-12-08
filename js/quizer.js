@@ -555,8 +555,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : 'Def Leppard',
-		song : "Pour Some Sugar on Me",
-		year : 1988
+		song : "Pour Some Sugar on Me (1988)",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
@@ -1285,7 +1285,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : "Rainbow",
-		song : "I Surrender (1981)"
+		song : "I Surrender (1981)",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
@@ -1643,6 +1644,16 @@ let en_1980_gr = [
 		pack : EN_1980_GR_PACK_1,
 		group : 'Styx',
 		song : "Mr. Roboto (1983)"
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : 'Def Leppard',
+		song : "Pour Some Sugar on Me (1988)"
+	},
+	{
+		pack : EN_1980_GR_PACK_2,
+		group : "Rainbow",
+		song : "I Surrender (1981)"
 	}
 ];
 
