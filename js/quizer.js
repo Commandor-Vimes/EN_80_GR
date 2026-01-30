@@ -348,7 +348,8 @@ const en_1980_gr_icon = [
 	'pop_medium',
 	'pop_hard',
 	'disco',
-	'rap'
+	'rap',
+	'pop'
 ];
 
 const EN_1980_GR_PACK_1 = 1;
@@ -357,6 +358,7 @@ const EN_1980_GR_PACK_3 = 4;
 const EN_1980_GR_PACK_4 = 3;
 const EN_1980_GR_PACK_5 = 5;
 const EN_1980_GR_PACK_6 = 6;
+const EN_1980_GR_PACK_7 = 7;
 
 let en_1980_gr = [
 	{
@@ -518,7 +520,7 @@ let en_1980_gr = [
 		song : "Need You Tonight (1987)"
 	},
 	{
-		pack : EN_1980_GR_PACK_1,
+		pack : EN_1980_GR_PACK_7,
 		group : "Crowded House",
 		song : "Don't Dream It's Over"
 	},
@@ -601,9 +603,9 @@ let en_1980_gr = [
 		song : "Breaking the Law (1980)"
 	},
 	{
-		pack : EN_1980_GR_PACK_2,
+		pack : EN_1980_GR_PACK_7,
 		group : 'Anthrax',
-		song : "A.I.R."
+		song : "Madhouse (1985)"
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
@@ -790,7 +792,7 @@ let en_1980_gr = [
 		song : "Out of Touch"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_7,
 		group : 'Soul II Soul',
 		song : "Back to Life (ft Caron Wheeler)"
 	},
@@ -811,7 +813,7 @@ let en_1980_gr = [
 		ignore : true
 	},
 	{
-		pack : EN_1980_GR_PACK_4,
+		pack : EN_1980_GR_PACK_7,
 		group : 'Simple Minds',
 		song : "Don't You"
 	},
@@ -836,7 +838,7 @@ let en_1980_gr = [
 		song : "Manic Monday"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_7,
 		group : "Go-Go's",
 		song : "Vacation"
 	},
@@ -851,7 +853,7 @@ let en_1980_gr = [
 		song : "Love Is a Stranger"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_7,
 		group : "Outfield",
 		song : "Your Love"
 	},
@@ -926,7 +928,7 @@ let en_1980_gr = [
 		song : "Only You"
 	},
 	{
-		pack : EN_1980_GR_PACK_4,
+		pack : EN_1980_GR_PACK_7,
 		group : 'Black',
 		song : "Wonderful Life"
 	},
@@ -946,7 +948,7 @@ let en_1980_gr = [
 		song : "Pump Up The Jam"
 	},
 	{
-		pack : EN_1980_GR_PACK_5,
+		pack : EN_1980_GR_PACK_7,
 		group : 'Soft Cell',
 		song : "Tainted Love"
 	},
@@ -963,7 +965,7 @@ let en_1980_gr = [
 		ignore : true
 	},
 	{
-		pack : EN_1980_GR_PACK_5,
+		pack : EN_1980_GR_PACK_7,
 		group : 'Lipps Inc',
 		song : "Funkytown"
 	},
@@ -983,12 +985,12 @@ let en_1980_gr = [
 		song : "Urgent (1981)"
 	},
 	{
-		pack : EN_1980_GR_PACK_5,
+		pack : EN_1980_GR_PACK_7,
 		group : 'Level 42',
 		song : "Lessons In Love"
 	},
 	{
-		pack : EN_1980_GR_PACK_5,
+		pack : EN_1980_GR_PACK_7,
 		group : 'Pointer Sisters',
 		song : "I'm So Excited"
 	},
@@ -998,12 +1000,12 @@ let en_1980_gr = [
 		song : "Dancing With Tears In My Eyes (1984)"
 	},
 	{
-		pack : EN_1980_GR_PACK_5,
+		pack : EN_1980_GR_PACK_7,
 		group : 'Bronski Beat',
 		song : "Smalltown Boy"
 	},
 	{
-		pack : EN_1980_GR_PACK_5,
+		pack : EN_1980_GR_PACK_7,
 		group : "A La Carte",
 		song : "Ring Me Honey"
 	},
@@ -1043,7 +1045,7 @@ let en_1980_gr = [
 		ignore : true
 	},
 	{
-		pack : EN_1980_GR_PACK_5,
+		pack : EN_1980_GR_PACK_7,
 		group : "London Boys",
 		song : "London Nights"
 	},
@@ -1063,7 +1065,7 @@ let en_1980_gr = [
 		song : "Liberta"
 	},
 	{
-		pack : EN_1980_GR_PACK_5,
+		pack : EN_1980_GR_PACK_7,
 		group : "Goombay Dance Band",
 		song : "Seven Tears"
 	},
@@ -1083,12 +1085,12 @@ let en_1980_gr = [
 		song : "Voulez-Vous Danser"
 	},
 	{
-		pack : EN_1980_GR_PACK_5,
+		pack : EN_1980_GR_PACK_7,
 		group : "Baby's Gang",
 		song : "Challenger"
 	},
 	{
-		pack : EN_1980_GR_PACK_5,
+		pack : EN_1980_GR_PACK_7,
 		group : "Righeira",
 		song : "Vamos A La Playa"
 	},
@@ -1118,7 +1120,7 @@ let en_1980_gr = [
 		song : "To Cut A Long Story Short"
 	},
 	{
-		pack : EN_1980_GR_PACK_5,
+		pack : EN_1980_GR_PACK_7,
 		group : "Berlin",
 		song : "Take My Breath Away"
 	},
@@ -1139,12 +1141,12 @@ let en_1980_gr = [
 		song : "Do You Really Want to Hurt Me"
 	},
 	{
-		pack : EN_1980_GR_PACK_5,
+		pack : EN_1980_GR_PACK_7,
 		group : 'Yazz',
 		song : "The Only Way Is Up (ft The Plastic Population)"
 	},
 	{
-		pack : EN_1980_GR_PACK_5,
+		pack : EN_1980_GR_PACK_7,
 		group : 'Chicago',
 		song : "Hard To Say I'M Sorry"
 	},
@@ -1212,7 +1214,7 @@ let en_1980_gr = [
 		song : "High Society Girl"
 	},
 	{
-		pack : EN_1980_GR_PACK_5,
+		pack : EN_1980_GR_PACK_7,
 		group : "Johnny Hates Jazz",
 		song : "Shattered Dreams"
 	},
@@ -1227,12 +1229,12 @@ let en_1980_gr = [
 		song : "Vicious games (1985)"
 	},
 	{
-		pack : EN_1980_GR_PACK_5,
+		pack : EN_1980_GR_PACK_7,
 		group : "Shorts",
 		song : "Comment ça va (1983)"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_7,
 		group : 'KC & The Sunshine Band',
 		song : "Give It Up (1982)"
 	},
@@ -1253,7 +1255,7 @@ let en_1980_gr = [
 		song : "Dr. Feelgood (1989)"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_7,
 		group : "ABC",
 		song : "When Smokey Sings (1987)"
 	},
@@ -1289,17 +1291,17 @@ let en_1980_gr = [
 		ignore : true
 	},
 	{
-		pack : EN_1980_GR_PACK_2,
+		pack : EN_1980_GR_PACK_7,
 		group : "Quiet Riot",
 		song : "The Wild and the Young (1986)"
 	},
 	{
-		pack : EN_1980_GR_PACK_2,
+		pack : EN_1980_GR_PACK_7,
 		group : "Poison",
 		song : "Talk Dirty to Me (1986)"
 	},
 	{
-		pack : EN_1980_GR_PACK_2,
+		pack : EN_1980_GR_PACK_7,
 		group : "REO Speedwagon",
 		song : "Keep On Loving You (1980)"
 	},
@@ -1329,22 +1331,22 @@ let en_1980_gr = [
 		song : "Gypsy Road (1988)"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_7,
 		group : 'Cars',
 		song : "Drive (1984)"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_7,
 		group : 'Boston',
 		song : "Amanda (1986)"
 	},
 	{
-		pack : EN_1980_GR_PACK_1,
+		pack : EN_1980_GR_PACK_7,
 		group : "Heart",
 		song : "Alone (1987)"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_7,
 		group : 'Beach Boys',
 		song : "Kokomo (1988)"
 	},
@@ -1471,7 +1473,7 @@ let en_1980_gr = [
 		song : "Roam (1989)"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_7,
 		group : 'Bandolero',
 		song : "Paris Latino (1983)"
 	},
@@ -1536,17 +1538,17 @@ let en_1980_gr = [
 		song : "We Built This City (1985)"
 	},
 	{
-		pack : EN_1980_GR_PACK_5,
+		pack : EN_1980_GR_PACK_7,
 		group : "Men Without Hats",
 		song : "The Safety Dance (1982)"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_7,
 		group : 'Animotion',
 		song : "Obsession (1984)"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_7,
 		group : 'Dexys Midnight Runners',
 		song : "Come On Eileen (1982)"
 	},
@@ -1571,19 +1573,19 @@ let en_1980_gr = [
 		song : "Two Tribes (1984)"
 	},
 	{
-		pack : EN_1980_GR_PACK_5,
+		pack : EN_1980_GR_PACK_7,
 		group : "Hot Chocolate",
 		song : "No Doubt About It (1980)"
 	},
 	{
-		pack : EN_1980_GR_PACK_1,
+		pack : EN_1980_GR_PACK_7,
 		group : "Katrina and the Waves",
 		song : "Walking On Sunshine (1983)"
 	},
 	{
 		pack : EN_1980_GR_PACK_6,
 		group : 'Milli Vanilli',
-		song : "Girl You Know It's True (1989)"
+		song : "Girl You Know It's True (1988)"
 	},
 	{
 		pack : EN_1980_GR_PACK_5,
@@ -1601,7 +1603,7 @@ let en_1980_gr = [
 		song : "Faster And Faster (1987)"
 	},
 	{
-		pack : EN_1980_GR_PACK_3,
+		pack : EN_1980_GR_PACK_7,
 		group : "Pussycat",
 		song : "Rio (1981)"
 	},
@@ -1651,9 +1653,19 @@ let en_1980_gr = [
 		song : "Pour Some Sugar on Me (1988)"
 	},
 	{
-		pack : EN_1980_GR_PACK_2,
+		pack : EN_1980_GR_PACK_7,
 		group : "Rainbow",
 		song : "I Surrender (1981)"
+	},
+	{
+		pack : EN_1980_GR_PACK_6,
+		group : 'Milli Vanilli',
+		song : "Girl I'm Gonna Miss You (1989)"
+	},
+	{
+		pack : EN_1980_GR_PACK_7,
+		group : "Art Company",
+		song : "Susanna (1984)"
 	}
 ];
 
@@ -1663,6 +1675,7 @@ let en_1980_gr_3 =	en_1980_gr.filter(item => item.pack == 3);
 let en_1980_gr_4 =	en_1980_gr.filter(item => item.pack == 4);
 let en_1980_gr_5 =	en_1980_gr.filter(item => item.pack == 5);
 let en_1980_gr_6 =	en_1980_gr.filter(item => item.pack == 6);
+let en_1980_gr_7 =	en_1980_gr.filter(item => item.pack == 7);
 
 
 let music = [
@@ -1695,6 +1708,10 @@ let music = [
 				{
 					arr: en_1980_gr_6,
 					name: 'EN 1980s Groups: Rap'
+				},
+				{
+					arr: en_1980_gr_7,
+					name: 'EN 1980s Groups: One Hit Wonders'
 				}
 			]
 	}
@@ -1708,6 +1725,7 @@ function map_songs(){
 	$('#mirror').hide();
 	$('#map').hide();
 	$('#package_content').hide();
+	$('#sec_15').show();
 	$('#mapping_content').show();
 	toggleLearn();
 	for(var j=0; j < music.length; j++){
