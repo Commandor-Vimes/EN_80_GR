@@ -603,7 +603,7 @@ let en_1980_gr = [
 		song : "Breaking the Law (1980)"
 	},
 	{
-		pack : EN_1980_GR_PACK_7,
+		pack : EN_1980_GR_PACK_2,
 		group : 'Anthrax',
 		song : "Madhouse (1985)"
 	},
@@ -965,7 +965,7 @@ let en_1980_gr = [
 		ignore : true
 	},
 	{
-		pack : EN_1980_GR_PACK_7,
+		pack : EN_1980_GR_PACK_5,
 		group : 'Lipps Inc',
 		song : "Funkytown"
 	},
@@ -1000,12 +1000,12 @@ let en_1980_gr = [
 		song : "Dancing With Tears In My Eyes (1984)"
 	},
 	{
-		pack : EN_1980_GR_PACK_7,
+		pack : EN_1980_GR_PACK_5,
 		group : 'Bronski Beat',
 		song : "Smalltown Boy"
 	},
 	{
-		pack : EN_1980_GR_PACK_7,
+		pack : EN_1980_GR_PACK_5,
 		group : "A La Carte",
 		song : "Ring Me Honey"
 	},
@@ -1045,7 +1045,7 @@ let en_1980_gr = [
 		ignore : true
 	},
 	{
-		pack : EN_1980_GR_PACK_7,
+		pack : EN_1980_GR_PACK_5,
 		group : "London Boys",
 		song : "London Nights"
 	},
@@ -1065,9 +1065,9 @@ let en_1980_gr = [
 		song : "Liberta"
 	},
 	{
-		pack : EN_1980_GR_PACK_7,
+		pack : EN_1980_GR_PACK_5,
 		group : "Goombay Dance Band",
-		song : "Seven Tears"
+		song : "Seven Tears (1981)"
 	},
 	{
 		pack : EN_1980_GR_PACK_5,
@@ -1085,7 +1085,7 @@ let en_1980_gr = [
 		song : "Voulez-Vous Danser"
 	},
 	{
-		pack : EN_1980_GR_PACK_7,
+		pack : EN_1980_GR_PACK_5,
 		group : "Baby's Gang",
 		song : "Challenger"
 	},
@@ -1346,7 +1346,7 @@ let en_1980_gr = [
 		song : "Alone (1987)"
 	},
 	{
-		pack : EN_1980_GR_PACK_7,
+		pack : EN_1980_GR_PACK_5,
 		group : 'Beach Boys',
 		song : "Kokomo (1988)"
 	},
@@ -1653,7 +1653,7 @@ let en_1980_gr = [
 		song : "Pour Some Sugar on Me (1988)"
 	},
 	{
-		pack : EN_1980_GR_PACK_7,
+		pack : EN_1980_GR_PACK_2,
 		group : "Rainbow",
 		song : "I Surrender (1981)"
 	},
@@ -1666,6 +1666,16 @@ let en_1980_gr = [
 		pack : EN_1980_GR_PACK_7,
 		group : "Art Company",
 		song : "Susanna (1984)"
+	},
+	{
+		pack : EN_1980_GR_PACK_5,
+		group : "Goombay Dance Band",
+		song : "Aloha-Oe, Until We Meet Again (1980)"
+	},
+	{
+		pack : EN_1980_GR_PACK_5,
+		group : "Goombay Dance Band",
+		song : "Eldorado (1980)"
 	}
 ];
 
@@ -2064,6 +2074,7 @@ function back_to_browser(){
 function back_to_current_pack(){
 	back = back_to_browser;
 	$('#mapping_content').hide();
+	$('#sec_15').hide();
 	$('#map').show();
 	package_num(pack_num);
 }
