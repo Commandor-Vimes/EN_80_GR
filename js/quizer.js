@@ -1735,7 +1735,7 @@ function map_songs(){
 	$('#mirror').hide();
 	$('#map').hide();
 	$('#package_content').hide();
-	$('#sec_15').show();
+	$('#sec_15_hist').show();
 	$('#mapping_content').show();
 	toggleLearn();
 	for(var j=0; j < music.length; j++){
@@ -1821,7 +1821,7 @@ function map_songs_format(arr){
 	let img_end = `.jpg" />`;
 	let img_play_start = `<img class='pointer onhover' width="30" height="30" src="img/navi/play.png" onclick="playSong('`;
 	let img_play_middle = `')" id='`;
-	let img_play_end = `'" /> <img style='margin-left: 10px;' class='pointer onhover' width="30" height="30" src="img/navi/15_sec.png" onclick="sec_15()" />`;
+	let img_play_end = `'" />`;
 	let space = '&nbsp;';
 	songs_to_map = arr.sort((a,b) => (a.group > b.group) ? 1 : ((b.group > a.group) ? -1 : 0));
 	let curr_group = songs_to_map[0].group;
@@ -2074,7 +2074,7 @@ function back_to_browser(){
 function back_to_current_pack(){
 	back = back_to_browser;
 	$('#mapping_content').hide();
-	$('#sec_15').hide();
+	$('#sec_15_hist').hide();
 	$('#map').show();
 	package_num(pack_num);
 }
