@@ -1696,14 +1696,6 @@ let music = [
 		type: 'gr',
 		packs: [
 				{
-					arr: en_1980_gr_1,
-					name: 'EN 1980s Groups: Pop-Rock'
-				},
-				{
-					arr: en_1980_gr_2,
-					name: 'EN 1980s Groups: Rock'
-				},
-				{
 					arr: en_1980_gr_3,
 					name: 'EN 1980s Groups: Pop Medium'
 				},
@@ -1718,6 +1710,14 @@ let music = [
 				{
 					arr: en_1980_gr_6,
 					name: 'EN 1980s Groups: Rap'
+				},
+				{
+					arr: en_1980_gr_1,
+					name: 'EN 1980s Groups: Pop-Rock'
+				},
+				{
+					arr: en_1980_gr_2,
+					name: 'EN 1980s Groups: Rock'
 				},
 				{
 					arr: en_1980_gr_7,
@@ -2075,6 +2075,14 @@ function back_to_current_pack(){
 	back = back_to_browser;
 	$('#mapping_content').hide();
 	$('#sec_15_hist').hide();
+	song_stop();
 	$('#map').show();
 	package_num(pack_num);
+}
+
+function song_stop() {
+	if(audio){
+		audio.pause();
+		audio = null;
+	}
 }
