@@ -1691,6 +1691,11 @@ let en_1980_gr = [
 		pack : EN_1980_GR_PACK_5,
 		group : "Goombay Dance Band",
 		song : "Eldorado (1980)"
+	},
+	{
+		pack : EN_1980_GR_PACK_1,
+		group : 'Kiss',
+		song : "Lick It Up (1983)"
 	}
 ];
 
