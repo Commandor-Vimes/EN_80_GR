@@ -364,12 +364,14 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : 'Bon Jovi',
-		song : "You Give Love A Bad Name"
+		song : "You Give Love A Bad Name",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : 'Bon Jovi',
-		song : "Livin' On A Prayer"
+		song : "Livin' On A Prayer",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
@@ -438,12 +440,14 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : "Blondie",
-		song : "Call Me"
+		song : "Call Me",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : "Blondie",
-		song : "The Tide Is High"
+		song : "The Tide Is High",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
@@ -454,7 +458,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : "Cure",
-		song : "Close To Me"
+		song : "Close To Me",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
@@ -465,7 +470,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : 'Bon Jovi',
-		song : "Bed Of Roses"
+		song : "Bed Of Roses",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
@@ -497,17 +503,20 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : "Blondie",
-		song : "One Way Or Another"
+		song : "One Way Or Another",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : "Cure",
-		song : "Lullaby"
+		song : "Lullaby",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
 		group : "Cure",
-		song : "Friday I'm In Love"
+		song : "Friday I'm In Love",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_1,
@@ -605,7 +614,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_2,
 		group : 'Anthrax',
-		song : "Madhouse (1985)"
+		song : "Madhouse (1985)",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_2,
@@ -967,7 +977,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_5,
 		group : 'Lipps Inc',
-		song : "Funkytown"
+		song : "Funkytown",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_5,
@@ -1000,7 +1011,7 @@ let en_1980_gr = [
 		song : "Dancing With Tears In My Eyes (1984)"
 	},
 	{
-		pack : EN_1980_GR_PACK_5,
+		pack : EN_1980_GR_PACK_7,
 		group : 'Bronski Beat',
 		song : "Smalltown Boy"
 	},
@@ -1047,7 +1058,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_5,
 		group : "London Boys",
-		song : "London Nights"
+		song : "London Nights",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_5,
@@ -1087,7 +1099,8 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_5,
 		group : "Baby's Gang",
-		song : "Challenger"
+		song : "Challenger",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_7,
@@ -1465,12 +1478,14 @@ let en_1980_gr = [
 	{
 		pack : EN_1980_GR_PACK_3,
 		group : "B-52's",
-		song : "Love Shack (1989)"
+		song : "Love Shack (1989)",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_3,
 		group : "B-52's",
-		song : "Roam (1989)"
+		song : "Roam (1989)",
+		ignore : true
 	},
 	{
 		pack : EN_1980_GR_PACK_7,
